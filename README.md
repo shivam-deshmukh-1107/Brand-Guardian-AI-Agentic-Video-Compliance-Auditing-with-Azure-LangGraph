@@ -85,7 +85,7 @@ These documents are chunked, embedded, and stored in **Azure AI Search**, enabli
 ### High-Level System Design
 
 <p align="center">
-  <img src="assets/architecture-diagram.jpg" alt="Architecture Diagram" width="100%" />
+  <img src="assets/architecture-diagram.png" alt="Architecture Diagram" width="100%" />
 </p>
 
 The architecture diagram illustrates a layered production design connecting:
@@ -434,5 +434,6 @@ This project demonstrates production-style AI system design through:
 - and **clear separation of orchestration, services, retrieval, and API layers**.
 
 ---
+
 
 
