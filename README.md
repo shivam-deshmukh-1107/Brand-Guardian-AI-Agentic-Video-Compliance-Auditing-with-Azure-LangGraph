@@ -49,7 +49,7 @@ The Streamlit dashboard presents audit results in a compact executive-style layo
 ### LangGraph + LangSmith Trace
 
 <p align="center">
-  <img src="assets/langsmith-trace.jpg" alt="LangSmith Trace" width="100%" />
+  <img src="assets/langsmith-trace.png" alt="LangSmith Trace" width="100%" />
 </p>
 
 LangSmith tracing captures the orchestration path, node execution timing, LLM invocation details, and workflow state transitions, enabling transparent debugging and optimization of the agentic pipeline.
@@ -434,4 +434,5 @@ This project demonstrates production-style AI system design through:
 - and **clear separation of orchestration, services, retrieval, and API layers**.
 
 ---
+
 
