@@ -41,7 +41,7 @@ The exported Swagger UI confirms the FastAPI application exposes `POST /audit` a
 ### Streamlit Dashboard
 
 <p align="center">
-  <img src="assets/streamlit-dashboard-output.jpg" alt="Streamlit Dashboard" width="100%" />
+  <img src="assets/streamlit-dashboard-output.png" alt="Streamlit Dashboard" width="100%" />
 </p>
 
 The Streamlit dashboard presents audit results in a compact executive-style layout with video metadata, overall status, violation cards, and an AI-generated compliance summary.
@@ -434,3 +434,4 @@ This project demonstrates production-style AI system design through:
 - and **clear separation of orchestration, services, retrieval, and API layers**.
 
 ---
+
